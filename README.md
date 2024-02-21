@@ -1,23 +1,25 @@
-
-# Aspirations
+# My portfolio
+## 1. Aspirations
 Learning and making a dent in the world
 
-# Education, Skills & Certification
-## Master of Science in Quantitative Finance - Singapore Management University
+## 2. Education, Skills & Certification
+### Master of Science in Quantitative Finance - Singapore Management University
 - Modules include Applied Quant Research, Stochastic Modelling, Risk analysis etc
 - Future modules include C++, Algo-trading, Data Science
-## Bachelor of Science in Civil Engineering - National University of Singapore
+  
+### Bachelor of Science in Civil Engineering - National University of Singapore
 - Graduated with Honors (Distinction)
 - Majored modules include Geotechnical Engineering, Strucutre Concrete Design
 - Minored in Financial Mathematics
-## Skills
+  
+### Skills
 - Python
 - Fluent Verbal and Written Mandarin
 
-## Certification
+### Certification
 - Passed CFA Level 1
 
-# Projects
-## Project 1: Alpha generation & backtesting
+## 3. Projects
+### Project 1: Alpha generation & backtesting
 
-## Project 2: Structuring a product based on Brent & Gold price prediction using ML
+### Project 2: Structuring a product based on Brent & Gold price prediction using ML
