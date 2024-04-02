@@ -23,4 +23,4 @@ Live with curiosity, Ask the right questions, enjoy the game of life
 ## 3. Projects
 ### Project 1: [Alpha generation & backtesting](https://github.com/Liangrui0431/Backtesting-sample)
 
-### Project 2: [Structuring a product based on Brent & Gold price prediction using ML](https://github.com/Liangrui0431/QF634-project/)
+### Project 2: [Structuring a product based on Brent & Gold price prediction using ML](https://github.com/Liangrui0431/QF634-project)
