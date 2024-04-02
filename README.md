@@ -20,6 +20,6 @@ Learning and making a dent in the world
 - Passed CFA Level 1
 
 ## 3. Projects
-### Project 1: Alpha generation & backtesting
+### Project 1: [Alpha generation & backtesting](https://github.com/Liangrui0431/Backtesting-sample)
 
-### Project 2: [Structuring a product based on Brent & Gold price prediction using ML](https://github.com/Liangrui0431/QF634-project/tree/main)
+### Project 2: [Structuring a product based on Brent & Gold price prediction using ML](https://github.com/Liangrui0431/QF634-project/)
