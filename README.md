@@ -1,6 +1,6 @@
 # My portfolio
 ## 1. Aspirations
-Learning and making a dent in the world
+Live with curiosity, Ask the right questions, enjoy the game of life
 
 ## 2. Education, Skills & Certification
 ### Master of Science in Quantitative Finance - Singapore Management University
@@ -14,6 +14,7 @@ Learning and making a dent in the world
   
 ### Skills
 - Python
+- Fluent Verbal and Written Mandarin
 - Fluent Verbal and Written Mandarin
 
 ### Certification
