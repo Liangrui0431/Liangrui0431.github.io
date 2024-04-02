@@ -22,4 +22,4 @@ Learning and making a dent in the world
 ## 3. Projects
 ### Project 1: Alpha generation & backtesting
 
-### Project 2: Structuring a product based on Brent & Gold price prediction using ML
+### Project 2: [Structuring a product based on Brent & Gold price prediction using ML](https://github.com/Liangrui0431/QF634-project/tree/main)
