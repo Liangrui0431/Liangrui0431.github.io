@@ -2,7 +2,7 @@
 ## 1. Aspirations
 Live with curiosity, Ask the right questions, enjoy the game of life
 
-## 2. Education, Skills & Certification
+## 2. Education Background
 ### Master of Science in Quantitative Finance - Singapore Management University
 - Modules include Applied Quant Research, Stochastic Modelling, Risk analysis etc
 - Future modules include C++, Algo-trading, Data Science
@@ -11,14 +11,15 @@ Live with curiosity, Ask the right questions, enjoy the game of life
 - Graduated with Honors (Distinction)
 - Majored modules include Geotechnical Engineering, Strucutre Concrete Design
 - Minored in Financial Mathematics
-  
-### Skills
-- Python
-- Fluent Verbal and Written Mandarin
-- Fluent Verbal and Written Mandarin
 
-### Certification
+## 3. Work Experience
+  
+## 4. Skills & Certifications
 - Passed CFA Level 1
+- Python
+- Stakeholder management & Communication
+- Fluent Verbal and Written English
+- Fluent Verbal and Written Mandarin
 
 ## 3. Projects
 ### Project 1: [Alpha generation & backtesting](https://github.com/Liangrui0431/Backtesting-sample)
