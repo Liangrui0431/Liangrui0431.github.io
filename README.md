@@ -15,6 +15,10 @@ Live with curiosity, Ask the right questions, enjoy the game of life
 ## 3. Work Experience (2021-2023)
 - Assistant Manager at JTC Corporation
   
+  Managing digitalization aspects of construction project, including client requirement, oversee progress, stakeholder management etc.
+
+  Also launched a research project that's based on Building Information Modelling.
+  
 ## 4. Skills & Certifications
 - Passed CFA Level 1
 - Python
